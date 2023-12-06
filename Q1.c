@@ -1,3 +1,4 @@
+//check if a no. is divisible by 3,7,5,8,6
 #include <stdio.h>
 int main() {
     int n;
